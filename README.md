@@ -9,7 +9,7 @@ Generate all ids for 36h11 tags with the right size for the ARENA apriltag pose 
 | ]300,450]    | 50            | [tag id 400](output/tag36_11_00400.pdf) |
 | ]450,586]    | 20            | [tag id 500](output/tag36_11_00500.pdf) |
 
-Generated tags in [here](output/)
+Generated tags in [the output folder](output/).
 
 # Setup
 
