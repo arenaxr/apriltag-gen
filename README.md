@@ -4,10 +4,10 @@ Generate all ids for 36h11 tags with the right size for the ARENA apriltag pose 
 
 | Tag ID Range | Tag Size (mm) | Example tag                    |
 | ------------ | ------------- | ------------------------------ |
-| [0,150]      | 150           | [tag id 100](tag36h11_100.pdf) |
-| ]150,300]    | 100           | [tag id 200](tag36h11_200.pdf) |
-| ]300,450]    | 50            | [tag id 400](tag36h11_400.pdf) |
-| ]450,586]    | 20            | [tag id 500](tag36h11_500.pdf) |
+| [0,150]      | 150           | [tag id 100](output/tag36h11_00100.pdf) |
+| ]150,300]    | 100           | [tag id 200](output/tag36h11_00200.pdf) |
+| ]300,450]    | 50            | [tag id 400](output/tag36h11_00400.pdf) |
+| ]450,586]    | 20            | [tag id 500](output/tag36h11_00500.pdf) |
 
 # Setup
 
