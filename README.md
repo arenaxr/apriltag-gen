@@ -11,6 +11,7 @@ Generate all ids for 36h11 tags with the right size for the ARENA apriltag pose 
 
 # Setup
 
+- Clone this repo (with --recurse-submodules to make sure you get the contents of the repositories added as submodules)
 - Install Python 3 and pip3. 
 - Edit **Makefile** to reflect the right paths to python 3 and pip3 on your system.
 
