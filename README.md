@@ -9,6 +9,8 @@ Generate all ids for 36h11 tags with the right size for the ARENA apriltag pose 
 | ]300,450]    | 50            | [tag id 400](output/tag36_11_00400.pdf) |
 | ]450,586]    | 20            | [tag id 500](output/tag36_11_00500.pdf) |
 
+Generated tags in [here](output/)
+
 # Setup
 
 - Clone this repo (with --recurse-submodules to make sure you get the contents of the repositories added as submodules)
