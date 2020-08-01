@@ -4,7 +4,7 @@ PIP=/usr/local/bin/pip3
 run: env tag36h11_big output
 	. env/bin/activate; ${PYTHON3} apriltag-gen.py 
 
-env/bin/activate: requirements.txt
+env: requirements.txt
 	test -d env || virtualenv env
 	. env/bin/activate; ${PIP} install -Ur requirements.txt
 	touch env/bin/activate
