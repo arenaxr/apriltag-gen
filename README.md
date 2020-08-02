@@ -15,11 +15,13 @@ Generated tags in [the output folder](output/).
 
 - Clone this repo (with --recurse-submodules to make sure you get the contents of the repositories added as submodules)
 - Install Python 3 and pip3. 
+- Install virtualenv:
+```$ pip3 install virtualenv```
 - Edit **Makefile** to reflect the right paths to python 3 and pip3 on your system.
 
 # Run
 
-```make run```
+```$ make run```
 
 The script will generate the ouptut pdfs in folder ```output/```
 
