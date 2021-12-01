@@ -1,6 +1,6 @@
 # apriltag-gen
 
-Generate all ids for 36h11 tags with the right size for the ARENA apriltag pose solver. The ARENA pose solver assumes the tag size from tag id, as shown in the table.
+Generate all ids for 36h11 tags with different sizes as follows:
 
 | Tag ID Range | Tag Size (mm) | Example tag                    |
 | ------------ | ------------- | ------------------------------ |
